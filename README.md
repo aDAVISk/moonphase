@@ -3,7 +3,7 @@ This directory contains IDL code to calculate the phase of the moon.<br>
 This IDL code is used for my paper, Kawamura+(2016, http://adsabs.harvard.edu/abs/2016PASJ..tmp...83K)<br>
 This code is relied on the IDL Astronomy User's Library of NASA (https://idlastro.gsfc.nasa.gov/) which is based onMeeus, J. (1998, http://adsabs.harvard.edu/abs/2016PASJ..tmp...83K)<br>
 <br>
-For any publication with the usage of this IDL code, please refer to Kawamura+(2016) as well as The IDL Astronomy User's Library of NASA and Meeus, J. (1998)<br>
+For any publication with the usage of this IDL code, refering to Kawamura+(2016) as well as The IDL Astronomy User's Library of NASA and Meeus, J. (1998) is highly appreciated.<br>
 <br>
 # How to Use
 1) Go to the IDL Astronomy User's Library of NASA (https://idlastro.gsfc.nasa.gov/) and clone the codes to your directory.<br>

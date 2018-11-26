@@ -13,7 +13,7 @@ For any publication with the usage of this IDL code, refering to Kawamura+(2016)
 ## Exmple
 With a csv file of listed Julian days, "example.csv", calculate the normalized phase of the moon and save to "result.csv".
 ```
-IDL> jdcsv = read_csv('example.csv", TYPEs="DOUBLE")
+IDL> jdcsv = read_csv('example.csv", TYPES="DOUBLE")
 IDL> moonage, jdcsv.FIELD1, phases
 IDL> write_csv, 'result.csv', phases
 ```

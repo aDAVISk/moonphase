@@ -7,7 +7,7 @@ For any publication with the usage of this IDL code, refering to Kawamura+(2016)
 <br>
 # How to Use
 1) Go to the IDL Astronomy User's Library of NASA (https://idlastro.gsfc.nasa.gov/) and clone the codes to your directory.<br>
-2) Clone the code under this directory to where the code from step 1 is available.
+2) Clone the codes under this directory to where the codes from step 1 is available.
 3) IN IDL run the code as `moonage, jdlist, phases`, where `jdlist` is 1D array of float/double of Julian days of your interest and `phases` stores the returned values of normalized phase of the moon (0.0=new moon, 1.0=next new moon).
 
 ## Exmple
